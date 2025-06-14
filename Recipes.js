@@ -25,3 +25,5 @@ const recipes = [
         time: 40
     }
 ]
+
+module.exports = recipes;
